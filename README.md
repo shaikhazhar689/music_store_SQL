@@ -1,1 +1,2 @@
-Music Store
+ # About
+## Music Store
