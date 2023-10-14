@@ -31,7 +31,7 @@ Welcome to the Music Store Sales Analysis Project, where we delve into the world
 
 In this project, we apply SQL to real-world sales data to extract valuable insights about employees, customers, music genres, and artist performance. Through a series of complex queries, we explore trends, discover best customers, and provide data-driven recommendations for music store management.
 
-### Glimpses of Finding:
+### Glimpses of Findings:
 
 Who is the **senior most employee based on job title?**
 
