@@ -1,5 +1,5 @@
  # About
-## Music Store Analysis Project
+## Music Store Analysis
 
 ### Project Overview:
 
