@@ -30,3 +30,23 @@ Welcome to the Music Store Sales Analysis Project, where we delve into the world
 ### The Analysis:
 
 In this project, we apply SQL to real-world sales data to extract valuable insights about employees, customers, music genres, and artist performance. Through a series of complex queries, we explore trends, discover best customers, and provide data-driven recommendations for music store management.
+
+### Glimpses of Finding:
+
+Who is the senior most employee based on job title?
+
+![15](https://github.com/shaikhazhar689/music_store_SQL/assets/134381942/030bd608-f18f-4fa0-ad7a-71852105b5f4)
+
+-- Which city has the best Customers? We would like to throw a promotional Music Festival 
+-- in the city we made the most money. Write a query that returns one city that has the highest 
+-- sum of invoices totals. Return both the city name & sum of all invoices totals
+
+![16](https://github.com/shaikhazhar689/music_store_SQL/assets/134381942/cdb10d84-b0db-4bba-bcae-7aaf90ec314b)
+
+-- Find How much amount spent by each customer on artists? Write a query to writtem customer name, 
+-- artist name and total spent
+
+![17](https://github.com/shaikhazhar689/music_store_SQL/assets/134381942/9d643d19-d754-434f-bfb7-42f50d7668fe)
+
+
+
